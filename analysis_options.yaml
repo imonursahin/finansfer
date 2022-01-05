@@ -1,0 +1,12 @@
+
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    prefer_const_constructors: false
+    unnecessary_const: false
+    unnecessary_new: false
+    sized_box_for_whitespace: false
+    prefer_const_literals_to_create_immutables: false
+    prefer_final_fields: false
+

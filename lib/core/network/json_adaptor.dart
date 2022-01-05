@@ -1,0 +1,3 @@
+class JsonAdaptor {
+  adaptToJson() {}
+}

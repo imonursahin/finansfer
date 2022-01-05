@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "819144587822",
+    "firebase_url": "https://custtrack-01-default-rtdb.firebaseio.com",
+    "project_id": "custtrack-01",
+    "storage_bucket": "custtrack-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819144587822:android:e3b5df019214d6b0923dbf",
+        "android_client_info": {
+          "package_name": "com.app.finansfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819144587822-qb3bb9prvk95uc1ascl19cc5mkmrdrqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6O9wvyrKkYEgWZVXoO3mYVRh1a3WwsHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819144587822-qb3bb9prvk95uc1ascl19cc5mkmrdrqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
