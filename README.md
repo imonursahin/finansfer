@@ -36,3 +36,8 @@ The application consists of 5 parts.
 - Flutter, Dart, Firebase, API, SharedPreferences
 - My university graduation project.
 
+
+
+https://user-images.githubusercontent.com/31903339/190852235-98272d8e-52ea-4b97-8c94-e051ba59c7c8.mp4
+
+
